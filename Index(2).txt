@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GROUP 3 GE23 2025</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #ece9e6, #ffffff);
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #1e1e2f;
+      color: white;
+      padding: 20px 0;
+    }
+    main {
+      padding: 40px 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .section {
+      margin: 30px 0;
+    }
+    footer {
+      background-color: #1e1e2f;
+      color: white;
+      padding: 10px 0;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GROUP 3 GE23 2025</h1>
+    <p>Welcome to our official project page!</p>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>About Us</h2>
+      <p>We are Group 3 from GE23, class of 2025. This website showcases our team and our work.</p>
+    </div>
+
+    <div class="section">
+      <h2>Our Projects</h2>
+      <p>Here we'll share our projects and links to repositories hosted on GitHub.</p>
+      <p>Visit our <a href="https://github.com/yourusername">GitHub Profile</a> (replace with your actual URL).</p>
+    </div>
+
+    <div class="section">
+      <h2>Discussion: The Role of IT in Today's World</h2>
+      <p>Information Technology (IT) plays a crucial role in shaping the modern world. From communication and education to healthcare and business, IT enables faster, more efficient, and more innovative solutions. It has transformed how people work, learn, and interact, providing powerful tools such as cloud computing, data analytics, and artificial intelligence. In today's digital age, IT is not just a support function—it is a driver of change and a foundation for progress in nearly every industry.</p>
+    </div>
+
+    <div class="section">
+      <h2>Contact Us</h2>
+      <p>Email: group3ge23@example.com</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GROUP 3 GE23. All rights reserved.</p>
+  </footer>
+</body>
+</html>
